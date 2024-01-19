@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **kiranoli079@gmail.com**
+- 📫 How to reach me **kiranoli421@gmail.com**
 
 - ⚡ Fun fact **I can fluently speak three languages: Nepali, English, and Hindi.**
 
