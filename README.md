@@ -1,14 +1,15 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://Kiranolichhetri.io)
-<h1 align="center">Hi 👋, I'm Kiran Oli Chhetri</h1>
+<h1 align="center">Hi 👋, I'm Kiran Oli</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img alight="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranolichhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kiranolichhetri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranolichhetri" alt="kiranolichhetri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@kiranoli07" target="blank"><img src="https://img.shields.io/twitter/follow/@kiranoli07?logo=twitter&style=for-the-badge" alt="@kiranoli07" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
+
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **kiranoli421@gmail.com**
 
@@ -18,8 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/@kiranoli07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kiranoli07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kiran-oli-842380285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-oli-842380285/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kiram.079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kiram.079" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kiranolichhetri07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neanoli150" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kiram.079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kiram.079" height="30" width="40" /></a>
+<a href="https://instagram.com/kiranolichhetri07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiranolichhetri07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kiranolichhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiranolichhetri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranolichhetri&show_icons=true&locale=en&layout=compact" alt="kiranolichhetri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranolichhetri&show_icons=true&locale=en" alt="kiranolichhetri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranolichhetri&" alt="kiranolichhetri" /></p>
