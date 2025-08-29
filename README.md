@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/@kiranoli07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kiranoli07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kiran-oli-842380285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-oli-842380285/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kiram.079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kiram.079" height="30" width="40" /></a>
-<a href="https://instagram.com/kiranolichhetri07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiranolichhetri07" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kiram.079/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kiram.079" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kiranolichhetri07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiranolichhetri07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiranolichhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiranolichhetri" height="30" width="40" /></a>
 </p>
 
