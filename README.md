@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 📫 How to reach me **kiranoli421@gmail.com**
+- 📫 How to reach me **kiran.oli@kiran-oli.com.np**
 
 - ⚡ Fun fact **I can fluently speak three languages: Nepali, English, and Hindi.**
 
